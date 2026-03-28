@@ -70,7 +70,7 @@ This prevents instant hijacking via social engineering or deepfake attacks.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/olip.git
+git clone https://github.com/karanjahpn/olip.git
 cd olip
 pip install -e ".[dev]"
 ```
